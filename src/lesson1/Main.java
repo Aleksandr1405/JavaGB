@@ -1,3 +1,5 @@
+package lesson1;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println(form(2, 3, 20, 4));
